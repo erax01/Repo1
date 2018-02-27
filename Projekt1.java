@@ -20,4 +20,7 @@ public class Projekt1 {
 		s.close();
 		return(eingabe1 + eingabe2);
 	}
+	public static void Hallo() {
+		System.out.println("Hallo");
+	}
 }
