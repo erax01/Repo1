@@ -20,6 +20,9 @@ public class Projekt1 {
 		s.close();
 		return(eingabe1 + eingabe2);
 	}
+	public static void Hallo() {
+		System.out.println("Hallo");
+	}
 	public static int Subtrahieren() {
 		System.out.println("Bitte geben Sie die erste Zahl ein:");
 		Scanner s = new Scanner(System.in);
